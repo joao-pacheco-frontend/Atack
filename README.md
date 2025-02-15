@@ -1,6 +1,4 @@
 
-Readme
-
 Projeto Aleatório
 Descrição
 Este é um projeto genérico criado para demonstrar um README bem estruturado. Ele pode ser usado como base para documentação de qualquer projeto.
